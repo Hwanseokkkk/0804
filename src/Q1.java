@@ -10,7 +10,7 @@ public class Q1 {
 //		int f;
 //		System.out.print(a+"\t");
 //		System.out.print(b+"\t");
-//		int i =1;
+//		int i =1;10
 //		while(i<=5){
 //			f = a+b;
 //			a = b;
